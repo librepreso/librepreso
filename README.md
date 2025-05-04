@@ -6,4 +6,4 @@ Currently learning Python, working with GIS data, and experimenting with tools l
 This GitHub is where I document my progress — from simple scripts to personal ideas.  
 You’ll find my notes, tests, and small wins here.
 
-More at: [librepreso.github.io](https://librepreso.github.io) · [Medium](https://medium.com/@librepreso) · [LinkedIn](https://www.linkedin.com/in/fabrizzio/)
+More at: [librepreso.github.io](https://librepreso.github.io) · [Medium](https://medium.com/@librepreso) · [LinkedIn](https://www.linkedin.com/in/fabrizzio-del-cid-471817228/)
